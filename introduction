@@ -1,0 +1,65 @@
+LINUX
+-------------
+AGENDA
+----------
+operating system
+types of software
+archetecture of o.s
+
+what is linux
+history of linux
+structure of linux
+diff. b/w linux and windows
+
+basic linux commands
+
+user management
+file management
+file permission
+file extraction
+input-output redirection
+networking commands
+pipeline
+filters commands
+disk utilities
+
+crontab
+
+
+operating system
+----------------------
+It is interface between computer system and computer user.
+
+it communicate software and hardware.
+
+
+software
+------------
+it is nothing but a computer program which is used to perform a particular task.
+
+types of software
+---------------------
+
+1. system software
+-----------------------
+software which help the system to run.
+
+2. application software
+-----------------------------
+software which help application to run.
+
+ex: ms office.
+
+
+
+WHAT IS LINUX
+----------------------
+Linux is open source, multitasking, multiuser operating system.
+
+
+
+commands
+-------------
+
+it is a way to give intruction to system.
+
