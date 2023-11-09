@@ -2,27 +2,34 @@ basic linux commands
 -------------------------
 1. touch : to create an empty file.
 
-syn: touch <filename>
+syn: 
+
+``` touch <filename> ```
 
 2. mkdir : (make directory) to create directory.
 
-syn: mkdir <directory name>
+syn:
+
+``` mkdir <directory name> ``` 
 
 
 3. ls : to list out all the files and directories.
 
-syn: ls
-syn: ls -l
+syn: ``` ls ``` 
+ls -l
+syn: ``` ls -l ``` 
 
 4. cd : change directory --> to go inside a particular folder.
-syn:  cd <dir-name>
+syn:
+``` cd <dir-name> ```
 
-syn: cd ..   ---> to come outside a directory.
+syn:  ``` cd .. ```
+ ---> to come outside a directory.
 
 5. pwd : present working directory
-
+syn: ``` pwd ```  
 6. whoami: to know the user.
-
+syn: ```whoami```
 7. cntrl + L/ clear  ----> to clear screen
 
 8. editors
@@ -47,14 +54,13 @@ edit the text
 
 ctrl s + cntr x
 
-cntrl s : to save
-cntrl x : to exit
+ctrl s : to save
+ctrl x : to exit
 
 
-9. cat 
 --------
 
-1. cat <filename>  : it will print the content of the file.
+1. ``` cat <filename> ```  : it will print the content of the file.
 
 2. cat >filename  : it will override the content present in file
 
